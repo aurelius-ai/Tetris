@@ -1,0 +1,3 @@
+Open "BuildDabase.php" first to create the database and table. Just change the password in line 15 in the file "BuildDatabase.php" and it will create everything at once. 
+Sorry for not using batch file. I just saw the changed instruction right before the deadline when I was about to upload my work. To change php file to batch file I need to change everything including project report because all my files are connected. ("BuildDabase.php" is connected to "TetrisLogin.php" and then "Tetris.php")
+Even if the database file does not work, you can open “Tetris.php” directly, it will still work. Thanks!
